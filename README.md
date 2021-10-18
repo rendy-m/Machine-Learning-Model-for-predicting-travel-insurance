@@ -15,3 +15,4 @@ The dataset contains some information about :
 # Modelling
 * Split Data training and test to X & y
 * Use Oversamping and set threshold to handling imbalanced data
+* Find the right Model based on the best F1 score
